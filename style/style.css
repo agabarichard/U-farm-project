@@ -2,7 +2,11 @@ body{
 	height: 1px;
 	font-size: larger;
 	font-family: Arial, Helvetica, sans-serif;
-	background-color:lightgreen;
+	background-image: url(/imgs/rice\ growing.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50%;
+	
 }
 h1{
 	color: darkgreen;
@@ -13,6 +17,14 @@ h2{
 }
 h4{
 	font-size: xx-large;
+}
+
+footer{
+
+	margin: 0 auto;
+	width: 1350px;
+	height: 340px;
+	background-color:black;
 }
 
 
